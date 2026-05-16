@@ -1,0 +1,17 @@
+# JSON Formatter — Feedback
+
+[English](README.md) | [中文](README_zh.md)
+
+This repo is for collecting feedback and suggestions for [JSON Formatter](https://json.site).
+
+Thanks for using JSON Formatter!
+
+If you run into any issues or have ideas, feel free to let me know.
+
+## How to Submit
+
+- Go to [GitHub Issues](https://github.com/bygo/json-site/issues) and create a new Issue
+- Briefly describe your problem or suggestion
+- Attach screenshots or sample JSON if needed
+
+I'll check and get back to you as soon as I can. Thanks!
