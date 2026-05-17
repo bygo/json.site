@@ -15,3 +15,7 @@ If you run into any issues or have ideas, feel free to let me know.
 - Attach screenshots or sample JSON if needed
 
 I'll check and get back to you as soon as I can. Thanks!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json-site&type=Date)](https://star-history.com/#bygo/json-site&Date)

@@ -15,3 +15,7 @@
 - 如有必要，附上截图或示例 JSON
 
 我会尽快查看并回复，感谢支持！
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json-site&type=Date)](https://star-history.com/#bygo/json-site&Date)
