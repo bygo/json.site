@@ -10,7 +10,7 @@ If you run into any issues or have ideas, feel free to let me know.
 
 ## How to Submit
 
-- Go to [GitHub Issues](https://github.com/bygo/json-site/issues) and create a new Issue
+- Go to [GitHub Issues](https://github.com/bygo/json.site/issues) and create a new Issue
 - Briefly describe your problem or suggestion
 - Attach screenshots or sample JSON if needed
 
@@ -18,4 +18,4 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json-site&type=Date)](https://star-history.com/#bygo/json-site&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json.site&type=Date)](https://star-history.com/#bygo/json.site&Date)
