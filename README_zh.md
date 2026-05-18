@@ -10,7 +10,7 @@
 
 ## 如何提交
 
-- 前往 [GitHub Issues](https://github.com/bygo/json-site/issues) 创建一个新的 Issue
+- 前往 [GitHub Issues](https://github.com/bygo/json.site/issues) 创建一个新的 Issue
 - 简要描述你的问题或建议
 - 如有必要，附上截图或示例 JSON
 
@@ -18,4 +18,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json-site&type=Date)](https://star-history.com/#bygo/json-site&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json.site&type=Date)](https://star-history.com/#bygo/json.site&Date)
