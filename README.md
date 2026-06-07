@@ -24,6 +24,7 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ### 2026-06-07
 
+- **JSON path** — place the cursor on a node to extract its path (e.g. `[2].article.name`) straight into the filter
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
