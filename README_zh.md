@@ -19,3 +19,12 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bygo/json.site&type=Date)](https://star-history.com/#bygo/json.site&Date)
+
+## 更新日志
+
+### 2026-06-07
+
+- **快捷键面板** —— 查看并自定义快捷键，浏览器默认按键已妥善处理
+- 修复展开时滚动位置异常的问题
+
+<!-- changelog-synced: bcf43fcb3fb6714c0c7a70b9a0eaeac2e63183d9 -->
