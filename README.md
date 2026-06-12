@@ -10,7 +10,7 @@ If you run into any issues or have ideas, feel free to let me know.
 
 ## How to Submit
 
-- Go to [GitHub Issues](https://github.com/bygo/json.site/issues) and create a new Issue
+- Go to [GitHub Issues](https://github.com/bygo/json.site/issues) and create a [new Issue](https://github.com/bygo/json.site/issues/new)
 - Briefly describe your problem or suggestion
 - Attach screenshots or sample JSON if needed
 
