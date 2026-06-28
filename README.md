@@ -22,6 +22,11 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-06-28
+
+- **One-click screenshot** — capture the formatted JSON as an image in a single click
+- **Multi-language** — switch the interface language
+
 ### 2026-06-07
 
 - **JSON path** — place the cursor on a node to extract its path (e.g. `[2].article.name`) straight into the filter
