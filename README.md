@@ -18,9 +18,20 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json.site&type=Date)](https://star-history.com/#bygo/json.site&Date)
+<a href="https://www.star-history.com/?type=date&repos=bygo%2Fjson.site">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&theme=dark&legend=top-left&sealed_token=p2shtBh02ecFzmxXwZXvoWP_o827PRjN1Ivba2eVFivAkYYrBO4PnEU01n5dbROvCnE5ujiAGlWOJG3Qk5S36XlzygbBWfPxD3TFSHoFOuX_TovD_roE4n7PI4x4BTAKfTw_Y_DkniuOArP0R0T47pEoaIqmsTuMq1Gad50IzSBorjBBeonfPDrFI02N" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left&sealed_token=p2shtBh02ecFzmxXwZXvoWP_o827PRjN1Ivba2eVFivAkYYrBO4PnEU01n5dbROvCnE5ujiAGlWOJG3Qk5S36XlzygbBWfPxD3TFSHoFOuX_TovD_roE4n7PI4x4BTAKfTw_Y_DkniuOArP0R0T47pEoaIqmsTuMq1Gad50IzSBorjBBeonfPDrFI02N" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left&sealed_token=p2shtBh02ecFzmxXwZXvoWP_o827PRjN1Ivba2eVFivAkYYrBO4PnEU01n5dbROvCnE5ujiAGlWOJG3Qk5S36XlzygbBWfPxD3TFSHoFOuX_TovD_roE4n7PI4x4BTAKfTw_Y_DkniuOArP0R0T47pEoaIqmsTuMq1Gad50IzSBorjBBeonfPDrFI02N" />
+ </picture>
+</a>
 
 ## Changelog
+
+### 2026-07-08
+
+- **JSON Path syntax update** — updated to standard JSON path syntax
+- **Major table refactor** — virtual scrolling, Cartesian product add/edit/delete, reworked UX
 
 ### 2026-06-28
 
