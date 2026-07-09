@@ -18,9 +18,20 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bygo/json.site&type=Date)](https://star-history.com/#bygo/json.site&Date)
+<a href="https://www.star-history.com/?type=date&repos=bygo%2Fjson.site">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&theme=dark&legend=top-left&sealed_token=p2shtBh02ecFzmxXwZXvoWP_o827PRjN1Ivba2eVFivAkYYrBO4PnEU01n5dbROvCnE5ujiAGlWOJG3Qk5S36XlzygbBWfPxD3TFSHoFOuX_TovD_roE4n7PI4x4BTAKfTw_Y_DkniuOArP0R0T47pEoaIqmsTuMq1Gad50IzSBorjBBeonfPDrFI02N" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left&sealed_token=p2shtBh02ecFzmxXwZXvoWP_o827PRjN1Ivba2eVFivAkYYrBO4PnEU01n5dbROvCnE5ujiAGlWOJG3Qk5S36XlzygbBWfPxD3TFSHoFOuX_TovD_roE4n7PI4x4BTAKfTw_Y_DkniuOArP0R0T47pEoaIqmsTuMq1Gad50IzSBorjBBeonfPDrFI02N" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left&sealed_token=p2shtBh02ecFzmxXwZXvoWP_o827PRjN1Ivba2eVFivAkYYrBO4PnEU01n5dbROvCnE5ujiAGlWOJG3Qk5S36XlzygbBWfPxD3TFSHoFOuX_TovD_roE4n7PI4x4BTAKfTw_Y_DkniuOArP0R0T47pEoaIqmsTuMq1Gad50IzSBorjBBeonfPDrFI02N" />
+ </picture>
+</a>
 
 ## 更新日志
+
+### 2026-07-08
+
+- **JSON Path语法更新** —— 更新为标准的JSON path语法
+- **大幅重构表格** —— 支持虚拟滚动、笛卡尔积增删改、重做UX
 
 ### 2026-06-28
 
@@ -29,7 +40,7 @@
 
 ### 2026-06-07
 
-- **JSON 路径** —— 将光标定位到节点即可提取其路径（如 `[2].article.name`）并填入筛选框
+- **JSON Path** —— 将光标定位到节点即可提取其路径（如 `[2].article.name`）并填入筛选框
 - **快捷键面板** —— 查看并自定义快捷键，浏览器默认按键已妥善处理
 - 修复展开时滚动位置异常的问题
 
