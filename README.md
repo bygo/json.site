@@ -31,7 +31,7 @@ I'll check and get back to you as soon as I can. Thanks!
 ### 2026-07-08
 
 - **JSON Path syntax update** — updated to standard JSON path syntax
-- **Major table refactor** — virtual scrolling, Cartesian product add/edit/delete, reworked UX
+- **Major table refactor** — virtual scrolling, Cartesian product select/copy, reworked UX
 
 ### 2026-06-28
 
