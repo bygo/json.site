@@ -28,6 +28,11 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-07-21
+
+- **Toggle columns** — hide table columns; edit them via the button in the top-left corner cell
+- **Box-select delete** — select cells by box-drag and delete them
+
 ### 2026-07-08
 
 - **JSON Path syntax update** — updated to standard JSON path syntax
