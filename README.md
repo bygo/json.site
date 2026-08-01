@@ -18,6 +18,16 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-07-27
+
+- **Multi-format import/export** — upload and export CSV, Excel, YAML, XML, JSONL, Markdown, SQL, and more
+
+### 2026-07-24
+
+- **Tree virtual scrolling** — large JSON trees stay smooth
+- **Column drag** — reorder table columns by dragging headers
+- **Tree edit** — double-click a tree node to edit it
+
 ### 2026-07-21
 
 - **Toggle columns** — hide table columns; edit them via the button in the top-left corner cell
@@ -39,4 +49,4 @@ I'll check and get back to you as soon as I can. Thanks!
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
-<!-- changelog-synced: bcf43fcb3fb6714c0c7a70b9a0eaeac2e63183d9 -->
+<!-- changelog-synced: 8f1a4bb6692b114a64b75da2739cb9a1791ea89e -->
