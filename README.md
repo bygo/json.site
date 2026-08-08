@@ -18,6 +18,26 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-08-05
+
+- **Graph view** — explore JSON as an interactive graph (pan, zoom, fullscreen, fit view)
+- **Scalar arrays & highlighting** — graph nodes color scalars by type; scalar arrays show inline with per-element colors
+
+### 2026-08-01
+
+- **Tree font size** — tree values follow the global font size setting
+- **Toolbar layout** — action bar wraps more cleanly on narrow screens
+
+### 2026-07-30
+
+- **Tree double-click edit** — fixed double-click to edit keys/values in the tree
+- **Export fixes** — clearer errors for invalid JSON; more reliable multi-format export
+
+### 2026-07-29
+
+- **Editor scroll CLS** — reduced layout shift while scrolling the editor
+- **Cell edit** — fixed accidental double-enter when starting cell edit
+
 ### 2026-07-27
 
 - **Multi-format import/export** — upload and export CSV, Excel, YAML, XML, JSONL, Markdown, SQL, and more
@@ -49,4 +69,4 @@ I'll check and get back to you as soon as I can. Thanks!
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
-<!-- changelog-synced: 8f1a4bb6692b114a64b75da2739cb9a1791ea89e -->
+<!-- changelog-synced: 343fe9c900c025a71ce4effb332b8a8253a7a792 -->
