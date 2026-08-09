@@ -18,6 +18,18 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-08-09
+
+- **Graph expand / collapse all** — toolbar button expands or folds every structural node in one click
+- **Clickable edges** — wider hit targets; click a link to select the child node and highlight the chain
+- **Smarter fold** — collapsing a node keeps child expand state so re-opening restores the previous layout
+- **Faster pinch / trackpad zoom** — wheel and pinch zoom sensitivity doubled for quicker navigation
+
+### 2026-08-08
+
+- **Local-data privacy tip** — History panel shows a dismissible banner
+- **Clearer graph text (Windows)** — fixed blurry labels when zoomed
+
 ### 2026-08-05
 
 - **Graph view** — explore JSON as an interactive graph (pan, zoom, fullscreen, fit view)
@@ -69,4 +81,4 @@ I'll check and get back to you as soon as I can. Thanks!
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
-<!-- changelog-synced: 343fe9c900c025a71ce4effb332b8a8253a7a792 -->
+<!-- changelog-synced: 1c19750fce1a23e221d1280f2497af2e1592a343 -->
