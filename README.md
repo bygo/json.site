@@ -18,6 +18,18 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-09-16
+
+- **JSONC** — settings toggle to allow JSON comments and trailing commas; formatting keeps comments
+
+### 2026-09-15
+
+- **Share JSON** — toolbar button builds a compressed share link in the URL hash; opening it restores the data
+
+### 2026-08-12
+
+- **Link open fix** — clicking http(s) links with query params in the editor no longer mangles `=` and `&`
+
 ### 2026-08-09
 
 - **Graph expand / collapse all** — toolbar button expands or folds every structural node in one click
@@ -81,4 +93,4 @@ I'll check and get back to you as soon as I can. Thanks!
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
-<!-- changelog-synced: 1c19750fce1a23e221d1280f2497af2e1592a343 -->
+<!-- changelog-synced: da898e67b902f9f89705771be284d4f7c8050ef5 -->
