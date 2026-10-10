@@ -94,3 +94,13 @@ I'll check and get back to you as soon as I can. Thanks!
 - Fixed a scroll glitch when unfolding
 
 <!-- changelog-synced: da898e67b902f9f89705771be284d4f7c8050ef5 -->
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=bygo%2Fjson.site&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left" />
+ </picture>
+</a>

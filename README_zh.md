@@ -94,3 +94,13 @@
 - 修复展开时滚动位置异常的问题
 
 <!-- changelog-synced: da898e67b902f9f89705771be284d4f7c8050ef5 -->
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=bygo%2Fjson.site&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bygo/json.site&type=date&legend=top-left" />
+ </picture>
+</a>
