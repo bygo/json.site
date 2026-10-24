@@ -18,6 +18,23 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-10-24
+
+- **Page not found** — invalid URLs now show a dedicated 404 page with a link back to JSON Formatter
+
+### 2026-10-21
+
+- **Home navigation** — added a JSON.site logo and link in the header to return to your language's homepage
+
+### 2026-10-17
+
+- **Caching improvements** — improved caching of editor resources for repeat visits while keeping update files fresh
+
+### 2026-10-16
+
+- **Privacy indicator** — added a dismissible browser-local processing reminder in the toolbar; hiding it is remembered
+- **AI repair wording** — clearer labels and privacy notice explain that AI repair uploads data for processing
+
 ### 2026-09-16
 
 - **JSONC** — settings toggle to allow JSON comments and trailing commas; formatting keeps comments
@@ -93,7 +110,7 @@ I'll check and get back to you as soon as I can. Thanks!
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
-<!-- changelog-synced: da898e67b902f9f89705771be284d4f7c8050ef5 -->
+<!-- changelog-synced: 97fcf8ddaa7cf86ceb21ec66b1bd88869f8e313d -->
 
 ## Star History
 
