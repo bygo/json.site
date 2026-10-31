@@ -18,6 +18,13 @@ I'll check and get back to you as soon as I can. Thanks!
 
 ## Changelog
 
+### 2026-10-31
+
+- **Open JSON from a link** — load and format URL-encoded JSON via `#json=`; existing compressed share links remain supported
+- **Large integers in share links** — fixed precision loss when generating share links and when loading them in the lightweight editor
+- **AI guide** — added a [guide for AI agents](https://json.site/docs/ai) with JavaScript and Python examples for generating viewer links, plus a documentation index at `/llms.txt`
+- **Sharing FAQ** — added sharing instructions, an example link, and data privacy reminders to multilingual FAQs; feedback links now point to GitHub Issues
+
 ### 2026-10-24
 
 - **Page not found** — invalid URLs now show a dedicated 404 page with a link back to JSON Formatter
@@ -110,7 +117,7 @@ I'll check and get back to you as soon as I can. Thanks!
 - **Keyboard shortcuts panel** — view and customize shortcuts, with browser default keys handled cleanly
 - Fixed a scroll glitch when unfolding
 
-<!-- changelog-synced: 97fcf8ddaa7cf86ceb21ec66b1bd88869f8e313d -->
+<!-- changelog-synced: 2a5ad3863077111cdb6f84deadb0c5a5140daa37 -->
 
 ## Star History
 
